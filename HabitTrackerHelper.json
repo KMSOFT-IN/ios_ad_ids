@@ -1,5 +1,6 @@
 {
  "adsEnabled": true,
+ "showSubscriptionFunctionality": true,
  "nativeAdId": "ca-app-pub-3377923567985554/4298194464",
  "interstitialAdId": "ca-app-pub-3377923567985554/5611276138",
  "appOpenAdId": "ca-app-pub-3377923567985554/8910063757"
